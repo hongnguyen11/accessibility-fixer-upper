@@ -48,6 +48,8 @@ a:hover {
 .about-content {
   background-color: #113c00;
   color: #fff;
+  position: absolute;
+  bottom: 2em;
 }
 
 .prices {
